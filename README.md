@@ -38,6 +38,8 @@ We'd love your help in making LinkStreamCoreNetworkingSystem even better! Here's
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
+- **License**: [https://github.com/AnimatedGTVR/LinkStreamNetworking/blob/main/LICENSE](https://github.com/AnimatedGTVR/LinkStreamNetworking/blob/main/LICENSE)
+
 
 ## Contact
 Got questions or feedback? We'd love to hear from you!
