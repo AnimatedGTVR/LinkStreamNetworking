@@ -41,10 +41,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 Got questions or feedback? We'd love to hear from you!
-- **Email**: [email@example.com](mailto:email@example.com)
-- **Twitter**: [@your_twitter](https://twitter.com/your_twitter)
-- **Project Link**: [https://github.com/yourusername/LinkStreamCoreNetworkingSystem](https://github.com/yourusername/LinkStreamCoreNetworkingSystem)
-
-## Acknowledgements
-- Shoutout to Unity for providing such an amazing game development platform.
-- Big thanks to the community for all the support and contributions that help make this project possible.
+- **Email**: [linkstreamnetworking@gmail.com](linkstreamnetworking@gmail.com)
+- **Project Link**: [[https://github.com/yourusername/LinkStreamCoreNetworkingSystem](https://github.com/AnimatedGTVR/LinkStreamNetworking)]((https://github.com/AnimatedGTVR/LinkStreamNetworking))
